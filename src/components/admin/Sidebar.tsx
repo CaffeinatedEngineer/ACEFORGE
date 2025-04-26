@@ -77,3 +77,5 @@ export function Sidebar() {
     </div>
   );
 }
+//we have added comments to the code to explain the functionality of each part.
+// The Sidebar component is a navigation menu for an admin dashboard.
